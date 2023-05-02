@@ -1,0 +1,13 @@
+body{
+    background-color: bisque;
+}
+
+p{
+    color: rgb(94, 7, 7);
+    padding-left: 50em;
+    padding-right: 50em;
+}
+
+.titulo{
+    text-align: center;
+}
