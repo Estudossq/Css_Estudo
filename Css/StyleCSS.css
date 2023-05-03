@@ -4,10 +4,19 @@ body{
 
 p{
     color: rgb(94, 7, 7);
-    padding-left: 50em;
-    padding-right: 50em;
+    text-align: center;
+    font-size: 2em;
+
 }
 
 .titulo{
     text-align: center;
+}
+
+div p{
+    color: blue;
+}
+
+div > p{
+    color: orange;
 }
